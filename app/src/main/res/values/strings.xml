@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">VkCupFinal</string>
+    <string name="user_collon">Пользователь:</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="react">Реакт</string>
+    <string name="reacts">Реакты</string>
+    <string name="loading">Загрузка</string>
+    <string name="quote_comment">Квот-коммент</string>
+    <string name="quote_comments">Квот-комменты</string>
+    <string name="add">Добавить</string>
+    <string name="your_comment">Ваш комментарий:</string>
+    <string name="comments">Комменты</string>
+    <string name="bites">Байты</string>
+    <string name="bites_description">Забайтить на сленге - заманить, спровоцировать на какое-то действие. Байты - это элементы контента, которые будут доступны только подписчикам. Так же можно устанавливать лимиты на срок подписки, допустим контент будет доступен только тем, кто подписан больше 3х дней. Автору это дает новый способ взаимодействия с читателями, а так же помогает собирать аудиторию. Пользователям это может повысить вовлеченность в изучение контента, а так же создает новые виды \"ачивок\" - например \"подписан с первого дня существования канала\", или же \"подписан более 3х лет\". Так же пользователь может видеть сколько еще подписчиков с таким же статусом как у него. Допустим контент который доступен после года подписки будет будет иметь подпись - \"Доступно вам и еще 9 542 подписчикам\".</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="quote_comment_description">Квот-коммент это возможность для пользователей прокомментировать и оценить часть контента. Автор статьи или видео сам выбирает разделы контента для оценки и дает возможность поставить лайк/дизлайк, или написать комментарий или и то и другое. Квот-комменты позволяют авторам контента получать более детальный фидбек от пользователей, а пользователям дают возможность общаться более открыто.</string>
+    <string name="reacts_description">Реакты это комментарии к контенту в формате видео. Пользователь может записать видео ответ, добавить лайк/дизлайк и емоджи. Так же пользователь может смотреть реакты других пользователей как бесконечную ленту.</string>
+
+    <plurals name="seconds" >
+        <item quantity="zero">секунд</item>
+        <item quantity="one">секунда</item>
+        <item quantity="few">секунды</item>
+        <item quantity="many">секунд</item>
+        <item quantity="other">секунд</item>
+    </plurals>
+
+    <plurals name="minutes">
+        <item quantity="zero">минут</item>
+        <item quantity="one">минута</item>
+        <item quantity="few">минуты</item>
+        <item quantity="many">минут</item>
+        <item quantity="other">минут</item>
+    </plurals>
+
+    <plurals name="hours">
+        <item quantity="zero">часов</item>
+        <item quantity="one">час</item>
+        <item quantity="few">часа</item>
+        <item quantity="many">часов</item>
+        <item quantity="other">часов</item>
+    </plurals>
+
+    <plurals name="days">
+        <item quantity="zero">дней</item>
+        <item quantity="one">день</item>
+        <item quantity="few">дня</item>
+        <item quantity="many">дней</item>
+        <item quantity="other">дней</item>
+    </plurals>
+
+    <plurals name="seconds_r">
+        <item quantity="zero">секунд</item>
+        <item quantity="one">секунду</item>
+        <item quantity="few">секунды</item>
+        <item quantity="many">секунд</item>
+        <item quantity="other">секунд</item>
+    </plurals>
+
+    <plurals name="minutes_r">
+        <item quantity="zero">минут</item>
+        <item quantity="one">минуту</item>
+        <item quantity="few">минуты</item>
+        <item quantity="many">минут</item>
+        <item quantity="other">минут</item>
+    </plurals>
+
+    <plurals name="hours_r">
+        <item quantity="zero">часов</item>
+        <item quantity="one">час</item>
+        <item quantity="few">часа</item>
+        <item quantity="many">часов</item>
+        <item quantity="other">часов</item>
+    </plurals>
+
+    <plurals name="days_r">
+        <item quantity="zero">дней</item>
+        <item quantity="one">день</item>
+        <item quantity="few">дня</item>
+        <item quantity="many">дней</item>
+        <item quantity="other">дней</item>
+    </plurals>
+
+    <plurals name="to_subscribers">
+        <item quantity="zero">подписчиков</item>
+        <item quantity="one">подписчику</item>
+        <item quantity="few">подписчикам</item>
+        <item quantity="many">подписчикам</item>
+        <item quantity="other">подписчикам</item>
+    </plurals>
+
+</resources>
